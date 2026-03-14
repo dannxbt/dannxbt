@@ -37,7 +37,7 @@
 <div align="center">
   <h2>🏋🏻 My Contributions 🏋🏻</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dannweeeee/dannweeeee/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dannxbt/dannxbt/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=dannweeeee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=dannxbt&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
 
