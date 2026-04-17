@@ -1,6 +1,6 @@
 ### Hey there 👋🏻
 
-I'm [Dann](https://www.linkedin.com/in/dannwee/), a DeFi-maxi and Software Engineer 
+I'm [Dann](https://www.linkedin.com/in/dannwee/), a DeFi-enthusiast and Software Engineer 
 
 **Currently my days are devoted to:**
 - ☄️ pushing the boundaries of DeFi at [Meteora](https://meteora.ag).
