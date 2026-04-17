@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dannweeeee.dannweeeee" />
-
 ### Hey there 👋🏻
 
 I'm [Dann](https://www.linkedin.com/in/dannwee/), a DeFi enthusiast and Software Engineer 
