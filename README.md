@@ -4,10 +4,10 @@ I'm [Dann](https://www.linkedin.com/in/dannwee/), a DeFi-enthusiast and Software
 
 **Currently my days are devoted to:**
 - ☄️ pushing the boundaries of DeFi at [Meteora](https://meteora.ag).
-- 🤖 build agentic tools to help with my daily productivity.
 - ⛏️ indie building random products.
 - 🤲🏼 contributing to open source projects.
 - ✍🏼 occasionally writing [stuffs](https://blog.dannwee.xyz/).
+- 🤖 claw-ing and hermes-ing to maximize productivity.
 
 🌐 more at [dannwee.xyz](https://www.dannwee.xyz/) <br />
 💬 find me [@dannxbt](https://x.com/dannxbt)
